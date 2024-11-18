@@ -16,7 +16,7 @@ export default function examplePage() {
 
           <p className='description'>
             Hello, I'm James Nguyen. I'm a freshman <span style={{color: "#9568ce"}}>computer science major,</span> <span style={{color: "#61efae"}}>linguistics minor,</span> and 
-            computational biology enthusiast. I'm a research assistant for the <span style={{color: "#c4ca6d"}}>Peleg Lab,</span> working 
+            computational biology enthusiast. This is my website for CSCI1000. I'm a research assistant for the <span style={{color: "#c4ca6d"}}>Peleg Lab,</span> working 
             on segmenting 3d x-rays of <span style={{color: "#c4ca6d"}}>honeybee swarms.</span> 
           </p>
 
